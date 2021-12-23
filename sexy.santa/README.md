@@ -1,1 +1,1 @@
-![traceroute to sexy.santa.bensley.me](https://github.com/jwbensley/xmas.tree.bensley.me/sexy.santa/sexy.santa.bensley.me.gif)
+![traceroute to sexy.santa.bensley.me](https://github.com/jwbensley/xmas.tree.bensley.me/blob/master/sexy.santa/sexy.santa.bensley.me.gif)
